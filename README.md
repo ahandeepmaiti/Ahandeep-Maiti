@@ -1,4 +1,3 @@
-About Me
 # Hi, I'm Ahandeep Maiti
 
 I'm a CEH-certified SOC Analyst working at the intersection of cybersecurity operations and creative technical enablement.
