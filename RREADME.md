@@ -1,12 +1,11 @@
-#  Hi, I'm [Your Name]
+#  Hi, I'm Ahandeep Maiti
 
 I'm a CEH-certified SOC Analyst working at the intersection of cybersecurity operations and creative technical enablement.
 
  **Current Role at Dievas**  
 - SOC operations, SIEM (SECEON), threat detection  
 - MISP deployment to enrich threat intelligence sharing  
-- Network design & solution diagrams (Visio)  
-- Client-facing support for demos, POCs & security tool integrations   
+- Network design & solution diagrams (Visio)   
 - VAPT collaboration, intern mentoring, and technical guidance for sales team
 
  **Creative Edge**  
